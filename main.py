@@ -8,18 +8,6 @@
 ## PYTHON
 AnyVariableName = "Whatever String, Number, or other Object"
 
-## RUST
-
-## RUST
-
-## RUST
-
-## RUST
-
-## RUST
-
-## RUST
-
 ## JAVASCRIPT
 var AnyVariableName = "Whatever String, Number, or other Object";
 let AnyVariableName = "Whatever String, Number, or other Object";
@@ -54,6 +42,22 @@ var AnyVariableName string = "700"
 
 ## GO (GOLANG) - STRING - VERSION 3 - SHORTCUT INFERS TYPE
 AnyVariableName := "700"
+
+## RUST
+
+## RUST
+
+## RUST
+
+## RUST
+
+## RUST
+
+## RUST
+
+
+
+
 
 ## PRINT TO CONSOLE
 
